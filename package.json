@@ -1,6 +1,6 @@
 {
   "name": "msg-generator",
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "description": "Randomly generate a legitimate message based on a given type.",
   "main": "msg-generator.js",
   "scripts": {
