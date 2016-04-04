@@ -1,0 +1,27 @@
+{
+  "name": "msg-generator",
+  "version": "v0.1.0",
+  "description": "Randomly generate a legitimate message based on a given type.",
+  "main": "msg-generator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ycmjason/msg-generator.git"
+  },
+  "keywords": [
+    "message",
+    "generate",
+    "generator",
+    "troll",
+    "fun",
+    "random",
+    "msg-generator"
+  ],
+  "author": "Jason Yu <me@ycmjason.com> (ycmjason.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
