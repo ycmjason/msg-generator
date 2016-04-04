@@ -30,7 +30,6 @@ All types are listed in `types.json` and refer to the corresponding message file
 
 ## Contributing
 This is probably the easiest project that you can ever contribute to. 
-
 ### Adding new messages
 1. Be creative think of some messages.
 2. Add your message to `messages/[type].js`.
@@ -42,19 +41,19 @@ This is probably the easiest project that you can ever contribute to.
 ### Adding new type
 1. Add your type to `types.json`.
 2. Add `messages/[type].js` which specifies the messages.
-  Example `messages/[type].js`:
-  ```
-  module.exports = [ 
-    "Example message 1.",
-    "Usually a message with a period(full stop)."
-  ];
-  ```
+   Example `messages/[type].js`:
+   ```
+   module.exports = [ 
+     "Example message 1.",
+     "Usually a message with a period(full stop)."
+   ];
+   ```
 3. Submit your pull request.
 
-### Testing
+## Testing
 ```bash
 npm run test
 ```
 
-### License
+## License
 MIT
