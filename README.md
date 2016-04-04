@@ -50,3 +50,11 @@ This is probably the easiest project that you can ever contribute to.
   ];
   ```
 3. Submit your pull request.
+
+### Testing
+```bash
+npm run test
+```
+
+### License
+MIT
