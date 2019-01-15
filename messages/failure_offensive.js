@@ -8,5 +8,5 @@ module.exports = [
   "That's it, this code is shit. Its a fucking failing shit.",
   "YAY!!! CODE WORKS!! Just kidding, it does't work.",
   "Your failing code is a fucking disgrace to humanity",
-  "You can't code bro, this shit ain't working. Leave it to the programmers for fuck's sake!"
+  "You can't code bro, this shit ain't working. Leave it to the programmers for fuck's sake!",
   ];
